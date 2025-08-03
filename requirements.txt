@@ -1,0 +1,11 @@
+torch
+torchaudio
+transformers
+datasets
+accelerate
+pyannote.audio
+fastapi
+uvicorn
+ffmpeg-python
+huggingface_hub
+python-multipart
